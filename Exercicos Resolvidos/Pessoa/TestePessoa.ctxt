@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestePessoa
+comment1.params=
+comment1.target=void\ executadoAntesDeCadaTeste()
+comment2.params=
+comment2.target=void\ deveAlterarOAtributoNome()
+comment3.params=
+comment3.target=void\ deveAlterarOAtributoSobrenome()
+comment4.params=
+comment4.target=void\ deveRetornarONomeCompleto()
+numComments=5

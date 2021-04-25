@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TesteCronometro
+comment1.params=
+comment1.target=void\ executadoAntesDeCadaTeste()
+comment2.params=
+comment2.target=void\ inicialmenteOValorDeveSerZero()
+comment3.params=
+comment3.target=void\ deveIncrementarOValor()
+comment4.params=
+comment4.target=void\ deveSerPossivelZerarOCronometro()
+numComments=5
