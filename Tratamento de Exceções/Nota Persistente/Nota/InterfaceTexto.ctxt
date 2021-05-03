@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=InterfaceTexto
+comment1.params=
+comment1.target=InterfaceTexto()
+comment10.params=s
+comment10.target=void\ sln(java.lang.String)
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ renderizar()
+comment4.params=
+comment4.target=void\ verificaOpcao()
+comment5.params=
+comment5.target=void\ visualizar()
+comment6.params=
+comment6.target=void\ alterar()
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=s
+comment8.target=java.lang.String\ leia(java.lang.String)
+comment9.params=
+comment9.target=void\ limpar()
+numComments=11

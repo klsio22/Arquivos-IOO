@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nota
+comment1.params=texto
+comment1.target=void\ setTexto(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTexto()
+numComments=3

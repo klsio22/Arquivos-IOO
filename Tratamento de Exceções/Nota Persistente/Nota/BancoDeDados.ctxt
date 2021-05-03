@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BancoDeDados
+comment1.params=
+comment1.target=BancoDeDados()
+comment2.params=texto
+comment2.target=void\ salvar(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTexto()
+numComments=4
