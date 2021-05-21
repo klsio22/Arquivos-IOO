@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BlocoDeNotas
+comment1.params=
+comment1.target=BlocoDeNotas()
+comment2.params=nota
+comment2.target=boolean\ adicionaNota(Nota)
+comment3.params=
+comment3.target=java.util.ArrayList\ getNotas()
+comment4.params=
+comment4.target=int\ getQuantidadeDeNotas()
+comment5.params=indice
+comment5.target=Nota\ remover(int)
+comment6.params=palavraChave
+comment6.target=java.util.ArrayList\ pesquisar(java.lang.String)
+numComments=7

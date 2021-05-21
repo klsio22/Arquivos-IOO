@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nota
+comment1.params=
+comment1.target=Nota()
+comment2.params=titulo\ texto
+comment2.target=Nota(java.lang.String,\ java.lang.String)
+comment3.params=titulo
+comment3.target=void\ setTitulo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTitulo()
+comment5.params=texto
+comment5.target=void\ setTexto(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTexto()
+numComments=7
